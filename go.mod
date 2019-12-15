@@ -1,3 +1,3 @@
-module github.com/phillipahereza/go_interpreter
+module github.com/phillipahereza/MonkeyLanguageInterpreter
 
 go 1.12
